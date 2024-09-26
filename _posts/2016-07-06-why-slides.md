@@ -1,5 +1,5 @@
 ---
-title: "Instituto Tecnologico de Cancun"
+- title:"Instituto Tecnologico de Cancun"
 slide-data: |
 <ul>
 <li>Alumno: Brian Enrique Leal Fuerte
