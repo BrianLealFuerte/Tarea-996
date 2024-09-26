@@ -5,7 +5,7 @@ permalink: /actuadores/
 background: '#0a5'
 
 slides:
-  - title: "Información del Estudiante"
+  - title: "Instituto Tecnologico de Cancun"
     slide-data: |
       <p><strong>Alumno:</strong> Brian Enrique Leal Fuerte</p>
       <p><strong>Profesor:</strong> Dr. Ismaes Jiménez Sánchez</p>
