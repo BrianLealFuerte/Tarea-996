@@ -1,16 +1,21 @@
 ---
+title: Instituto Tecnologico de Cancun
+layout: post
+slide-data: |
+<ul>
+<li>Alumno: Brian Enrique Leal Fuerte
+<li>Profesor: Dr. Ismaes Jiménez Sánchez
+<li>Materia: Sistemas Programables
+<li>Tarea: Presentación de la Unidad 1
+<li>Carrera: Ingeniería en Sistemas
+<li>Grado: Noveno Semestre
+ </ul>
+ background: "#f1c40f"
+
 title: Tipos de Actuadores
 layout: post
 permalink: /actuadores/
 background: '#0a5'
-
-# Información del alumno y curso
-Alumno: Brian Enrique Leal Fuerte
-Profesor: Dr. Ismaes Jiménez Sánchez
-Materia: Sistemas Programables
-Tarea: Presentación de la Unidad 1
-Carrera: Ingeniería en Sistemas
-Grado: Noveno Semestre
 
 slides:
   - title: "Actuadores: Introducción"
