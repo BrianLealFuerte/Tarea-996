@@ -1,6 +1,5 @@
 ---
 title: Instituto Tecnologico de Cancun
-layout: post
 <ul>
 <li>Alumno: Brian Enrique Leal Fuerte
 <li>Profesor: Dr. Ismaes Jiménez Sánchez
