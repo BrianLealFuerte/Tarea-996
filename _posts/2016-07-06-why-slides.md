@@ -1,22 +1,19 @@
 ---
-- title:"Instituto Tecnologico de Cancun"
-slide-data: |
-<ul>
-<li>Alumno: Brian Enrique Leal Fuerte
-<li>Profesor: Dr. Ismaes Jiménez Sánchez
-<li>Materia: Sistemas Programables
-<li>Tarea: Presentación de la Unidad 1
-<li>Carrera: Ingeniería en Sistemas
-<li>Grado: Noveno Semestre
- </ul>
- background: "#f1c40f"
-
 title: Tipos de Actuadores
 layout: post
 permalink: /actuadores/
 background: '#0a5'
 
 slides:
+  - title: "Información del Estudiante"
+    slide-data: |
+      <p><strong>Alumno:</strong> Brian Enrique Leal Fuerte</p>
+      <p><strong>Profesor:</strong> Dr. Ismaes Jiménez Sánchez</p>
+      <p><strong>Materia:</strong> Sistemas Programables</p>
+      <p><strong>Tarea:</strong> Presentación de la Unidad 1</p>
+      <p><strong>Carrera:</strong> Ingeniería en Sistemas</p>
+      <p><strong>Grado:</strong> Noveno Semestre</p>
+  
   - title: "Actuadores: Introducción"
     slide-data: |
       <p>Los actuadores son dispositivos que convierten energía en movimiento. Son clave en sistemas de automatización, robótica y maquinaria industrial.</p>
@@ -92,3 +89,4 @@ slides:
         <h1>{{slide.title}}</h1>{{ slide.slide-data }}
 </section>               
 {% endfor %}
+
